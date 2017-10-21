@@ -27,9 +27,14 @@ This course mainly focuses on high dimensional statistical problems, namely prob
 We will focus on : 
 
 - **Model selection methods for high dimensional linear regression models**
-- **Classical methods for supervised classification and Support Vectors Machines**
-- **Regularization methods in nonparametric statistics and wavelet thresholding** 
-- **An introduction to deep learning**
+    **PRACTICAL WORK 1** : High dimensional linear regression models with <a href="https://cran.r-project.org/"><img src="https://cran.r-project.org/Rlogo.svg" style="max-width: 40px; display: inline" alt="R"/></a> (https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/ModLinHD.ipynb)
 
-- **PRACTICAL WORK 1** : [High dimensional linear regression models] (https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/ModLinHD.ipynb)
+- **Classical methods for supervised classification and Support Vectors Machines**
+    **PRACTICAL WORK 2 ** : 
+    
+- **Regularization methods in nonparametric statistics and wavelet thresholding** 
+    **PRACTICAL WORK 3 ** :
+
+- **An introduction to deep learning**
+    **PRACTICAL WORK 4 ** :
 
