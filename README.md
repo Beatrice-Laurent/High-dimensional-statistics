@@ -30,3 +30,6 @@ We will focus on :
 - **Classical methods for supervised classification and Support Vectors Machines**
 - **Regularization methods in nonparametric statistics and wavelet thresholding** 
 - **An introduction to deep learning**
+
+- **PRACTICAL WORK 1** : [High dimensional linear regression models] (https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/ModLinHD.ipynb)
+
