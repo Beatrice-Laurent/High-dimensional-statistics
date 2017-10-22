@@ -37,8 +37,12 @@ We will focus on :
 - **Regularization methods in nonparametric statistics and wavelet thresholding** 
 
     **PRACTICAL WORK 3 ** :
+    
+    **PRACTICAL WORK 4 ** :
 
 - **An introduction to deep learning**
 
-    **PRACTICAL WORK 4 ** :
+    **PRACTICAL WORK 5 ** :
+    
+    **PRACTICAL WORK 6 ** :
 
