@@ -19,6 +19,7 @@ on a microarray is generally much larger than the number n of individuals in the
 
 
 The main references for this course are the books 
+
 -"Introduction to High-Dimensional Statistics" by  C. Giraud  
 -" The elements of Statistical Learning" by T. Hastie, R. Tibshirani and J. Friedman
 
