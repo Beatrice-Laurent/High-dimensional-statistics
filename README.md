@@ -35,18 +35,18 @@ We will focus on :
 
 - **Classical methods for supervised classification and Support Vectors Machines**
 
-    **PRACTICAL WORK 2 ** : Introduction to SVM with [R](https://cran.r-project.org/) 
+    **PRACTICAL WORK 2** : Introduction to SVM with [R](https://cran.r-project.org/) 
      - [Introduction to SVM - Part 1](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/INTRO-SVM.ipynb)
     
 - **Regularization methods in nonparametric statistics and wavelet thresholding** 
 
-    **PRACTICAL WORK 3 ** :
+    **PRACTICAL WORK 3** :
     
-    **PRACTICAL WORK 4 ** :
+    **PRACTICAL WORK 4** :
 
 - **An introduction to deep learning**
 
-    **PRACTICAL WORK 5 ** :
+    **PRACTICAL WORK 5** :
     
-    **PRACTICAL WORK 6 ** :
+    **PRACTICAL WORK 6** :
 
