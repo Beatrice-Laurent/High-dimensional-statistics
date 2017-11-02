@@ -30,8 +30,8 @@ We will focus on :
 - **Model selection methods for high dimensional linear regression models**
 
     **PRACTICAL WORK 1** : with [R](https://cran.r-project.org/) :
-    - [ High dimensional linear regression :  model selection and variable selection - Part 1](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/ModLinHD.ipynb)
-    - [High dimensional linear regression :  model selection and variable selection - Part 2](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/ModLinHD2.ipynb)
+    - [ Part 1 :  Model selection for High dimensional linear regression](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/ModLinHD.ipynb)
+    - [Part 2 : Variable selection in high dimension for gene expression data ](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/ModLinHD2.ipynb)
 
 - **Classical methods for supervised classification and Support Vectors Machines**
 
