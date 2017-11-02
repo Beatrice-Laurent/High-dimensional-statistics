@@ -29,14 +29,14 @@ We will focus on :
 
 - **Model selection methods for high dimensional linear regression models**
 
-    **PRACTICAL WORK 1** : with [R](https://cran.r-project.org/) :
-    - [ Part 1 :  Model selection for High dimensional linear regression](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/ModLinHD.ipynb)
-    - [Part 2 : Variable selection in high dimension for gene expression data ](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/ModLinHD2.ipynb)
+    **PRACTICAL WORK 1** : 
+    - [ Part 1 :  Model selection for High dimensional linear regression](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/ModLinHD.ipynb) with [R](https://cran.r-project.org/) :
+    - [Part 2 : Variable selection in high dimension for gene expression data ](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/ModLinHD2.ipynb) with [R](https://cran.r-project.org/) :
 
 - **Classical methods for supervised classification and Support Vectors Machines**
 
-    **PRACTICAL WORK 2** : Introduction to SVM with [R](https://cran.r-project.org/) 
-     - [Introduction to SVM - Part 1](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/INTRO-SVM.ipynb)
+    **PRACTICAL WORK 2** : 
+     - [Introduction to SVM - Part 1](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/INTRO-SVM.ipynb) with [R](https://cran.r-project.org/) :
     
 - **Regularization methods in nonparametric statistics and wavelet thresholding** 
 
