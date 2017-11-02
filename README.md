@@ -28,7 +28,7 @@ We will focus on :
 
 - **Model selection methods for high dimensional linear regression models**
 
-    **PRACTICAL WORK 1** : High dimensional linear regression models with [R](href="https://cran.r-project.org/") (https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/ModLinHD.ipynb)
+    **PRACTICAL WORK 1** : High dimensional linear regression models with [R](https://cran.r-project.org/) (https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/ModLinHD.ipynb)
   and   (https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/ModLinHD2.ipynb)
 
 - **Classical methods for supervised classification and Support Vectors Machines**
