@@ -28,14 +28,14 @@ We will focus on :
 
 - **Model selection methods for high dimensional linear regression models**
 
-    **PRACTICAL WORK 1** : High dimensional linear regression :  model selection and variable selection with [R](https://cran.r-project.org/) :
-    - [Part 1](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/ModLinHD.ipynb)
-    - [Part 2](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/ModLinHD2.ipynb)
+    **PRACTICAL WORK 1** : with [R](https://cran.r-project.org/) :
+    - [ High dimensional linear regression :  model selection and variable selection - Part 1](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/ModLinHD.ipynb)
+    - [High dimensional linear regression :  model selection and variable selection - Part 2](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/ModLinHD2.ipynb)
 
 - **Classical methods for supervised classification and Support Vectors Machines**
 
     **PRACTICAL WORK 2 ** : Introduction to SVM with [R](https://cran.r-project.org/) 
-     - [Part 1](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/INTRO-SVM.ipynb)
+     - [Introduction to SVM - Part 1](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/INTRO-SVM.ipynb)
     
 - **Regularization methods in nonparametric statistics and wavelet thresholding** 
 
