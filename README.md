@@ -40,7 +40,8 @@ We will focus on :
     
 - **Regularization methods in nonparametric statistics and wavelet thresholding** 
 
-    **PRACTICAL WORK ** :  - [Introduction to Pywavelets](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/Intro-Pywavelets.ipynb) **with** Python
+    **PRACTICAL WORK ** :  
+    - [Introduction to Pywavelets](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/Intro-Pywavelets.ipynb) **with** Python
     
 
 - **An introduction to deep learning**
@@ -49,7 +50,8 @@ We will focus on :
     
 - **Anomaly detection for functional data**
 
-    **PRACTICAL WORK ** : - [Anomaly detection for functional data](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/HDSTAT-Python-Anomaly-Detection.ipynb) **with**  [Python](https://www.python.org/)
+    **PRACTICAL WORK ** :
+    - [Anomaly detection for functional data](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/HDSTAT-Python-Anomaly-Detection.ipynb) **with**  [Python](https://www.python.org/)
  
     
    
