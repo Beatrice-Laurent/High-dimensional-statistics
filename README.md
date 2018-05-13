@@ -50,7 +50,7 @@ We will focus on :
     
 - **Anomaly detection for functional data**
 
-    **PRACTICAL WORK ** :
+    **PRACTICAL WORK** :
     - [Anomaly detection for functional data](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/HDSTAT-Python-Anomaly-Detection.ipynb) **with**  [Python](https://www.python.org/)
  
     
