@@ -41,7 +41,7 @@ We will focus on :
 - **Regularization methods in nonparametric statistics and wavelet thresholding** 
 
     **PRACTICAL WORK** :  
-    - [Introduction to Pywavelets](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/Intro-Pywavelets.ipynb) **with** Python
+    - [Introduction to Pywavelets](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/Intro-Pywavelets.ipynb) **with** [Python](https://www.python.org/)
     
 
 - **An introduction to deep learning**
