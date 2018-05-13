@@ -36,21 +36,20 @@ We will focus on :
 - **Classical methods for supervised classification and Support Vectors Machines**
 
     **PRACTICAL WORK ** : 
-     -  Part 1 : [Introduction to SVM ](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/INTRO-SVM.ipynb) **with** [R](https://cran.r-project.org/) 
+     - [Introduction to SVM ](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/INTRO-SVM.ipynb) **with** [R](https://cran.r-project.org/) 
     
 - **Regularization methods in nonparametric statistics and wavelet thresholding** 
 
-    **PRACTICAL WORK ** :
+    **PRACTICAL WORK ** :  - [Introduction to Pywavelets](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/Intro-Pywavelets.ipynb) **with** Python
     
-    **PRACTICAL WORK ** :
 
 - **An introduction to deep learning**
 
     **PRACTICAL WORK ** :
     
-- **Anomaly detection in functional data**
+- **Anomaly detection for functional data**
 
-    **PRACTICAL WORK ** :
+    **PRACTICAL WORK ** : - [Anomaly detection for functional data](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/Python-TP-Anomaly-Detection.ipynb) **with** Python
 
  
     
