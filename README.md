@@ -29,24 +29,26 @@ We will focus on :
 
 - **Model selection methods for high dimensional linear regression models**
 
-    **PRACTICAL WORK ** : 
+    **Course** : [Linear models for regression and Model Selection](http://wikistat.fr/pdf/st-m-hdstat-linselect.pdf]
+    
+    **PRACTICAL WORK** : 
     -  Part 1 :  [Model selection for High dimensional linear regression](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/ModLinHD.ipynb) **with** [R](https://cran.r-project.org/) 
     - Part 2 : [Variable selection in high dimension for gene expression data ](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/ModLinHD2.ipynb) **with** [R](https://cran.r-project.org/) 
 
 - **Classical methods for supervised classification and Support Vectors Machines**
 
-    **PRACTICAL WORK ** : 
+    **PRACTICAL WORK** : 
      - [Introduction to SVM ](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/INTRO-SVM.ipynb) **with** [R](https://cran.r-project.org/) 
     
 - **Regularization methods in nonparametric statistics and wavelet thresholding** 
 
-    **PRACTICAL WORK ** :  
+    **PRACTICAL WORK** :  
     - [Introduction to Pywavelets](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/Intro-Pywavelets.ipynb) **with** Python
     
 
 - **An introduction to deep learning**
 
-    **PRACTICAL WORK ** :
+    **PRACTICAL WORK** :
     
 - **Anomaly detection for functional data**
 
