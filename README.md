@@ -50,7 +50,9 @@ We will focus on :
     
 - **Anomaly detection in functional data**
 
-      **PRACTICAL WORK ** :
+    **PRACTICAL WORK ** :
+
+ 
     
    
 
