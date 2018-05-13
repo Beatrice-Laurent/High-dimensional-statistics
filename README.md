@@ -29,7 +29,7 @@ We will focus on :
 
 - **Model selection methods for high dimensional linear regression models**
 
-    **Course** : [Linear models for regression and Model Selection](http://wikistat.fr/pdf/st-m-hdstat-linselect.pdf]
+    **Course** : [Linear models for regression and Model Selection](http://wikistat.fr/st-m-hdstat-linselect.pdf]
     
     **PRACTICAL WORK** : 
     -  Part 1 :  [Model selection for High dimensional linear regression](https://github.com/Beatrice-Laurent/High-dimensional-statistics/blob/master/ModLinHD.ipynb) **with** [R](https://cran.r-project.org/) 
